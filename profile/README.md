@@ -10,10 +10,10 @@ The same code and data behind the free tools on grappleflows.com. MIT licensed, 
 
 | Repo | What it is |
 | --- | --- |
-| [bjj-timer](https://github.com/GrappleFlows/bjj-timer) | BJJ round timer web component: presets, IBJJF match times by belt, 10-second warning, fullscreen, wake lock |
-| [bjj-scoreboard](https://github.com/GrappleFlows/bjj-scoreboard) | IBJJF scoreboard web component: points, advantages, penalties, automatic tiebreaks, match clock |
-| [bjj-bracket](https://github.com/GrappleFlows/bjj-bracket) | Tournament bracket generator: single and double elimination, round robin, teammates kept apart, IBJJF podium |
-| [bjj-data](https://github.com/GrappleFlows/bjj-data) | IBJJF and ADCC weight classes, legal techniques by ruleset, IBJJF belt requirements, and a BJJ position vocabulary as JSON (data CC BY 4.0) |
+| [bjj-timer](https://github.com/grapple-flows/bjj-timer) | BJJ round timer web component: presets, IBJJF match times by belt, 10-second warning, fullscreen, wake lock |
+| [bjj-scoreboard](https://github.com/grapple-flows/bjj-scoreboard) | IBJJF scoreboard web component: points, advantages, penalties, automatic tiebreaks, match clock |
+| [bjj-bracket](https://github.com/grapple-flows/bjj-bracket) | Tournament bracket generator: single and double elimination, round robin, teammates kept apart, IBJJF podium |
+| [bjj-data](https://github.com/grapple-flows/bjj-data) | IBJJF and ADCC weight classes, legal techniques by ruleset, IBJJF belt requirements, and a BJJ position vocabulary as JSON (data CC BY 4.0) |
 
 ### Free tools
 
