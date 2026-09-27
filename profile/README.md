@@ -6,7 +6,14 @@ Grapple Flows is a free BJJ flowchart app that turns voice notes and videos into
 
 ### Open source
 
-- **[bjj-data](https://github.com/GrappleFlows/bjj-data)**: IBJJF and ADCC weight classes, legal techniques by belt and ruleset (IBJJF, ADCC, NAGA, Grappling Industries), IBJJF belt requirements, and a BJJ position vocabulary, as JSON and a typed npm package. Every table cites its rulebook. Code is MIT, data is CC BY 4.0.
+The same code and data behind the free tools on grappleflows.com. MIT licensed, no dependencies, and each widget drops onto any website with one script tag.
+
+| Repo | What it is |
+| --- | --- |
+| [bjj-timer](https://github.com/GrappleFlows/bjj-timer) | BJJ round timer web component: presets, IBJJF match times by belt, 10-second warning, fullscreen, wake lock |
+| [bjj-scoreboard](https://github.com/GrappleFlows/bjj-scoreboard) | IBJJF scoreboard web component: points, advantages, penalties, automatic tiebreaks, match clock |
+| [bjj-bracket](https://github.com/GrappleFlows/bjj-bracket) | Tournament bracket generator: single and double elimination, round robin, teammates kept apart, IBJJF podium |
+| [bjj-data](https://github.com/GrappleFlows/bjj-data) | IBJJF and ADCC weight classes, legal techniques by ruleset, IBJJF belt requirements, and a BJJ position vocabulary as JSON (data CC BY 4.0) |
 
 ### Free tools
 
