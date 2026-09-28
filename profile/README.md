@@ -30,4 +30,4 @@ No account, no ads. Five of them can go on a gym or event website with a copy-an
 
 ### About
 
-Built by Justin, a software engineer and competitive grappler (2× IBJJF American National Champion). The first version, BuddyTape, launched in 2019 after Ffion Davies showed how she planned matches with paper flowcharts. Questions or corrections: hello@grappleflows.com.
+Built by Justin, a software engineer and competitive grappler (2× IBJJF American National Champion, IBJJF No-Gi Worlds Silver Medalist; IBJJF Asia Open Silver Medalist and Bronze Open-Weight Division). The first version, BuddyTape, launched in 2019 after Ffion Davies showed how she planned matches with paper flowcharts. Questions or corrections: hello@grappleflows.com.
